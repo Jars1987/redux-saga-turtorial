@@ -1,6 +1,7 @@
 # Setting up our Redux Saga
 
-![reduxSaga] ('./public/reduxSaga1.jpeg')
+![reduxSaga]
+('https://github.com/Jars1987/redux-saga-turtorial/blob/main/public/reduxSaga1.jpeg')
 
 ### - Action Creators
 
