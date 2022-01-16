@@ -1,6 +1,6 @@
 # Setting up our Redux Saga
 
-![reduxSaga] ('./public/reduxSaga1.jpeg)
+![reduxSaga] ('./public/reduxSaga1.jpeg')
 
 ### - Action Creators
 
